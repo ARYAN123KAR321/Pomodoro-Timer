@@ -20,7 +20,7 @@ This is a simple Pomodoro Timer application built using Python and Tkinter. The 
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/](https://github.com/ARYAN123KAR321/Pomodoro-Timer.git)
+    git clone https://github.com/ARYAN123KAR321/Pomodoro-Timer.git
     ```
 2. Navigate to the project directory:
     ```sh
